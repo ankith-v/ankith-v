@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **integrating LocalStorage in a movies web application**
 
-- 🧠 I am currently learning **ML algorithms and applications**
+-🌱 I'm currently learning **ML algorithms and applications**
 
-- 📫 How to reach me **ankithvaitla345@gmail.com**
+- 📫 How to reach me  -  ankithvaitla345@gmail.com   -  [linkedin](www.linkedin.com/in/ankith-vaitla/)
 
 
 
