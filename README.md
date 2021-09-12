@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **integrating LocalStorage in a movies web application**
 
--🌱 I'm currently learning **ML algorithms and applications**
+- 🌱 I'm currently learning **ML algorithms and applications**
 
 - 📫 How to reach me  -  ankithvaitla345@gmail.com   -  [linkedin](www.linkedin.com/in/ankith-vaitla/)
 
