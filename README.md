@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I'm currently learning **ML algorithms and applications**
 
-- 📫 How to reach me  -  ankithvaitla345@gmail.com   -  [Linkedin](www.linkedin.com/in/ankith-vaitla/)
+- 📫 How to reach me  -  ankithvaitla345@gmail.com   -  [Linkedin](https://www.linkedin.com/in/ankith-vaitla/)
 
 
 
