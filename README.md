@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there👋<br/> I'm Ankith, a Computer Science student</h1>
 
-- 🔭 I’m currently working on **integrating LocalStorage in a movies web application**
+- 🔭 I’m currently working on **integrating IndexedDB in a movies web application**
 
 - 🌱 I'm currently learning **ML algorithms and applications**
 
