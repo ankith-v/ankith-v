@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center">Hello there👋<br/> I'm Ankith, a Computer Science student</h1>
+<!-- <h1 align="center">Hello there👋<br/> I'm Ankith, a Computer Science student</h1> -->
 
 - 📫 How to reach me  -  ankithvaitla345@gmail.com   -  [Linkedin](https://www.linkedin.com/in/ankith-vaitla/)
 
